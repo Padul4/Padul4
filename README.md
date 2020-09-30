@@ -12,14 +12,16 @@ My name is Lucas Padula and I'm a front-end developer. I'm from Brazil, living i
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I teach soccer for kids too
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="lucaspadula.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.lucaspadula.com/)
 [<img align="left" alt="Lucas Padula | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/lucas.padula.1)
 [<img align="left" alt="Lucas Padula | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/lucaspadula/)
 [<img align="left" alt="Lucas Padula | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/lpadula_/)
-
 <br />
+---
 
 ### Languages and Tools:
 
@@ -37,25 +39,6 @@ My name is Lucas Padula and I'm a front-end developer. I'm from Brazil, living i
 
 <br />
 <br />
-
----
-
-
-
----
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-
-
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://codeSTACKr.com
 [youtube]: https://youtube.com/codeSTACKr
