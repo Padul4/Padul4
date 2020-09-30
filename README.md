@@ -2,15 +2,14 @@
 <br />
 
 My name is Lucas Padula and I'm a front-end developer. I'm from Brazil, living in Syndey and currently working as Web Developer Freelancer  
-<br />
 
-[Check it out my portfolio](https://www.lucaspadula.com/)
+[Check it out my portfolio!](https://www.lucaspadula.com/)
 
 - 🔭 I’m currently working on a [Amazon Clone Project](https://github.com/Padul4/my-amazon-clone)!
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I teach soccer for kids too
+- ⚡ Fun fact: I'm a soccer coach too
 
 ---
 
