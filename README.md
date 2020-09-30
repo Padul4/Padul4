@@ -1,6 +1,10 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br />
-## I'm Lucas Padula - [MyPortfolio](https://www.lucaspadula.com/) 👋
+
+My name is Lucas Padula and I'm a front-end developer. I'm from Brazil, living in Syndey and currently working as Web Developer Freelancer  
+<br />
+
+[Check it out my portfolio](https://www.lucaspadula.com/)
 
 - 🔭 I’m currently working on a [Amazon Clone Project](https://github.com/Padul4/my-amazon-clone)!
 - 🌱 I’m currently learning ReactJS
