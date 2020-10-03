@@ -2,7 +2,9 @@
 <br />
 
 My name is Lucas Padula and I'm a front-end developer.
+
 I'm from Brazil, living in Syndey and currently working as Uber driver and Web Developer Freelancer.
+
 #OpenToWork
 
 [Check it out my portfolio!](https://www.lucaspadula.com/)
