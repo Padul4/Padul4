@@ -1,7 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br />
 
-My name is Lucas Padula and I'm a front-end developer. I'm from Brazil, living in Syndey and currently working as Web Developer Freelancer  
+My name is Lucas Padula and I'm a front-end developer.
+I'm from Brazil, living in Syndey and currently working as Uber driver and Web Developer Freelancer.
+#OpenToWork
 
 [Check it out my portfolio!](https://www.lucaspadula.com/)
 
