@@ -9,10 +9,9 @@ I'm from Brazil, living in Syndey and currently working as Uber driver and Web D
 
 [Check it out my portfolio!](https://www.lucaspadula.com/)
 
-- 🔭 I’m currently working on a [Amazon Clone Project](https://github.com/Padul4/my-amazon-clone)!
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I'm a soccer coach too
 
 ---
